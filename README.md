@@ -5,7 +5,7 @@
 **Independent Software Development Studio**  
 Kandy, Sri Lanka · `GMT+05:30`
 
-[Email Us](mailto:fourloops.official.2026@gmail.com) · [Instagram (@fourloops.dev)](https://www.google.com/search?q=https://www.instagram.com/fourloops.dev) · [GitHub (@fourloops-official)](https://www.google.com/search?q=https://github.com/fourloops-official)
+[Email Us](mailto:fourloops.official.2026@gmail.com) · [Instagram (@fourloops.dev)](https://www.instagram.com/fourloops.dev) · [GitHub (@fourloops-dev)](https://github.com/fourloops-dev)
 
 </div>
 
@@ -49,5 +49,5 @@ We're an independent software development team building practical, user-friendly
 Have a project idea, collaboration, or product inquiry? We'd love to hear from you.
 
 - **Email**: [fourloops.official.2026@gmail.com](mailto:fourloops.official.2026@gmail.com)
-- **Instagram**: [@fourloops.dev](https://www.google.com/search?q=https://www.instagram.com/fourloops.dev)
-- **GitHub**: [github.com/fourloops-official](https://www.google.com/search?q=https://github.com/fourloops-official)
+- **Instagram**: [@fourloops.dev](https://www.instagram.com/fourloops.dev)
+- **GitHub**: [github.com/fourloops-dev](https://github.com/fourloops-dev)
